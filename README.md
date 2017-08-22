@@ -10,7 +10,9 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ## Certificates
 
- - Course 1 - Neural Networks and Deep Learning: [Official Coursera Website](https://www.coursera.org/account/accomplishments/certificate/64AXM9TMUKN9) or [PDF](Certificates/Coursera%2064AXM9TMUKN9.pdf)
+ - **Course 1 - Neural Networks and Deep Learning:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/64AXM9TMUKN9) or [PDF](Certificates/Coursera%20-%20Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%2064AXM9TMUKN9.pdf)
+ - **Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/64AXM9TMUKN9) or [PDF](Certificates/Coursera%20-%20Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%2064AXM9TMUKN9.pdf)
+ - **Course 3 - Structuring Machine Learning Projects:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/ZGAJC5SM3ZLR) or [PDF](Certificates/Coursera%20-%20Course%203%20-%20Structuring%20Machine%20Learning%20Projects%20-%20WPKK3TFZ9778.pdf)
 
 ## 1. Neural Networks and Deep Learning
 
