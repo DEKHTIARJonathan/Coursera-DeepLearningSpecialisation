@@ -10,9 +10,17 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ## Certificates
 
- - **Course 1 - Neural Networks and Deep Learning:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/64AXM9TMUKN9) or [PDF](Certificates/Coursera%20-%20Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%2064AXM9TMUKN9.pdf)
- - **Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/64AXM9TMUKN9) or [PDF](Certificates/Coursera%20-%20Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%2064AXM9TMUKN9.pdf)
- - **Course 3 - Structuring Machine Learning Projects:** [Official Coursera Website](https://www.coursera.org/account/accomplishments/records/ZGAJC5SM3ZLR) or [PDF](Certificates/Coursera%20-%20Course%203%20-%20Structuring%20Machine%20Learning%20Projects%20-%20WPKK3TFZ9778.pdf)
+ - **Course 1 - Neural Networks and Deep Learning:** 
+   - [Record on Coursera Website](https://www.coursera.org/account/accomplishments/records/64AXM9TMUKN9)
+   - [PDF Certificate](Certificates/Coursera%20-%20Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%2064AXM9TMUKN9.pdf)
+ - **Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:** 
+   - [Record on Coursera Website](https://www.coursera.org/account/accomplishments/records/EKL67LPZJ4MS)
+   - [PDF Certificate](Certificates/Coursera%20-%20Course%202%20-%20Improving%20Deep%20Neural%20Networks%20_%20Tuning,%20Regularization%20and%20Optimization-%20EDJACGKZ27R4.pdf)
+ - **Course 3 - Structuring Machine Learning Projects:** 
+   - [Record on Coursera Website](https://www.coursera.org/account/accomplishments/records/ZGAJC5SM3ZLR)
+   - [PDF Certificate](Certificates/Coursera%20-%20Course%203%20-%20Structuring%20Machine%20Learning%20Projects%20-%20WPKK3TFZ9778.pdf)
+ - **Course 4 - Convolutional Neural Networks:** *Coming Soon*
+ - **Course 5 - Structuring Machine Learning Projects:** *Coming Soon*
 
 ## 1. Neural Networks and Deep Learning
 
