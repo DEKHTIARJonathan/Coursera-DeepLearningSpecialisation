@@ -1,4 +1,4 @@
-## Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks
+## Week 7 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks
 
 1. If searching among a large number of hyperparameters, you should try values in a grid rather than random values, so that you can carry out the search more systematically and not rely on chance. True or False?
 
