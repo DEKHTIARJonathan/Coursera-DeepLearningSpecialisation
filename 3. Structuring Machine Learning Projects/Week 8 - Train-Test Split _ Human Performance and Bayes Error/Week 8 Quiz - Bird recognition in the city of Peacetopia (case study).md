@@ -1,4 +1,4 @@
-## Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)
+## Week 8 Quiz - Bird recognition in the city of Peacetopia (case study)
 
 1. Having three evaluation metrics makes it harder for you to quickly choose between two different algorithms, and will slow down the speed with which your team can iterate. True/False?
 
@@ -58,7 +58,7 @@
 
 9. Which of the following statements do you agree with?
 
-	  - A learning algorithm’s performance can be better human-level performance but it can never be better than Bayes error.
+    - A learning algorithm’s performance can be better human-level performance but it can never be better than Bayes error.
 
 10. You find that a team of ornithologists debating and discussing an image gets an even better 0.1% performance, so you define that as “human-level performance.” After working further on your algorithm, you end up with the following:
 
@@ -92,15 +92,15 @@
     What can you conclude? (Check all that apply.)
 
     - It is now harder to measure avoidable bias, thus progress will be slower going forward.
-	  - If the test set is big enough for the 0,05% error estimate to be accurate, this implies Bayes error is ≤0.05
+    - If the test set is big enough for the 0,05% error estimate to be accurate, this implies Bayes error is ≤0.05
 
 13. It turns out Peacetopia has hired one of your competitors to build a system as well. Your system and your competitor both deliver systems with about the same running time and memory size. However, your system has higher accuracy! However, when Peacetopia tries out your and your competitor’s systems, they conclude they actually like your competitor’s system better, because even though you have higher overall accuracy, you have more false negatives (failing to raise an alarm when a bird is in the air). What should you do?
 
-	  - Rethink the appropriate metric for this task, and ask your team to tune to the new metric.
+    - Rethink the appropriate metric for this task, and ask your team to tune to the new metric.
 
 14. You’ve handily beaten your competitor, and your system is now deployed in Peacetopia and is protecting the citizens from birds! But over the last few months, a new species of bird has been slowly migrating into the area, so the performance of your system slowly degrades because your data is being tested on a new type of data.
 
-	  - Use the data you have to define a new evaluation metric (using a new dev/test set) taking into account the new species, and use that to drive further progress for your team.
+    - Use the data you have to define a new evaluation metric (using a new dev/test set) taking into account the new species, and use that to drive further progress for your team.
 
 15. The City Council thinks that having more Cats in the city would help scare off birds. They are so happy with your work on the Bird detector that they also hire you to build a Cat detector. (Wow Cat detectors are just incredibly useful aren’t they.) Because of years of working on Cat detectors, you have such a huge dataset of 100,000,000 cat images that training on this data takes about two weeks. Which of the statements do you agree with? (Check all that agree.)
 
