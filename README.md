@@ -40,3 +40,27 @@ The Quiz solutions have been copied from this [repository](https://github.com/Ku
 - [Week 3 - Planar data classification with one hidden layer](1.%20Neural%20Networks%20and%20Deep%20Learning/Week%203%20-%20Shallow%20neural%20networks/Planar%20data%20classification%20with%20one%20hidden%20layer/)
 - [Week 4 - Key concepts on Deep Neural Networks](1.%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/)
 - [Week 4 - Key concepts on Deep Neural Networks](1.%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Deep%20Neural%20Network%20Application%20-%20Image%20Classification/)
+
+## 2. Improving Deep Neural Networks - Hyperparameter tuning, Regularization and Optimization
+
+### 2.1 Quiz Solutions
+
+- [Week 5 Quiz - Practical aspects of deep learning](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%205%20-%20Regularisation%20and%20Optimisation/Week%205%20%20Quiz%20-%20Practical%20aspects%20of%20deep%20learning.md)
+- [Week 6 Quiz - Optimization algorithms](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%206%20-%20Optimisation%20algorithms%20and%20gradient%20descent/Week%206%20Quizz%20-%20Optimisation%20%26%20Gradient%20Descent.md)
+- [Week 7 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%207%20-%20Tuning%2C%20Batch%20Norm%20and%20Tensorflow/Week%207%20Quiz%20-%20Tuning%2C%20Batch%20Norm%2C%20and%20Tensorflow.md)
+
+### 2.1 Programming Assignments
+- [Week 5 - Initialisation](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%205%20-%20Regularisation%20and%20Optimisation/Initialisation/)
+- [Week 5 - Regularization](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%205%20-%20Regularisation%20and%20Optimisation/Regularization/)
+- [Week 5 - Gradient Checking](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%205%20-%20Regularisation%20and%20Optimisation/Gradient%20Checking/)
+- [Week 6 - Optimization Methods](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%206%20-%20Optimisation%20algorithms%20and%20gradient%20descent/Optimization%20Methods/)
+- [Week 7 - Tensorflow Tutorial](2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%207%20-%20Tuning%2C%20Batch%20Norm%20and%20Tensorflow/Tensorflow%20Tutorial/)
+
+## 3. Neural Networks and Deep Learning
+
+### 3.1 Quiz Solutions
+
+The Quiz solutions have been copied from this [repository](https://github.com/Kulbear/deep-learning-coursera), no need to recreate something which done very well.
+
+- [Week 8 Quiz - Bird recognition in the city of Peacetopia (case study)](3.%20Structuring%20Machine%20Learning%20Projects/Week%208%20-%20Train-Test%20Split%20_%20Human%20Performance%20and%20Bayes%20Error/Week%208%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+- [Week 9 Quiz - Autonomous driving (case study)](3.%20Structuring%20Machine%20Learning%20Projects/Week%209%20-%20Multi-task%20%26%20transfer%20learning%20and%20End-To-End%20Deep%20Learning/Week%209%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
