@@ -1,4 +1,4 @@
-## Week 2 Quiz - Autonomous driving (case study)
+## Week 9 Quiz - Autonomous driving (case study)
 
 1. You are just getting started on this project. What is the first thing you do? Assume each of the steps below would take about an equal amount of time (a few days).
 
